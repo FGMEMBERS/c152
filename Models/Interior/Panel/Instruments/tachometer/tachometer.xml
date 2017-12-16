@@ -22,6 +22,17 @@
   </emission>
  </animation> -->
 
+ <animation>
+  <type>material</type>
+  <object-name>Tachometer</object-name>
+  <object-name>needle</object-name>
+  <emission>
+   <red>0.98</red>
+   <green>0.51</green>
+   <blue>0.0</blue>
+   <factor-prop>/sim/model/c152/lighting/instruments</factor-prop>
+  </emission>
+ </animation>
 
  <animation> 
   <type>rotate</type>
